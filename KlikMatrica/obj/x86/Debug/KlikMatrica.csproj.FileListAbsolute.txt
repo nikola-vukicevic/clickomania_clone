@@ -1,0 +1,30 @@
+C:\Users\korisnik\AppData\Local\Temporary Projects\KlikMatrica\bin\Debug\KlikMatrica.exe
+C:\Users\korisnik\AppData\Local\Temporary Projects\KlikMatrica\bin\Debug\KlikMatrica.pdb
+C:\Users\korisnik\AppData\Local\Temporary Projects\KlikMatrica\obj\x86\Debug\KlikMatrica.Properties.Resources.resources
+C:\Users\korisnik\AppData\Local\Temporary Projects\KlikMatrica\obj\x86\Debug\KlikMatrica.csproj.GenerateResource.Cache
+C:\Users\korisnik\AppData\Local\Temporary Projects\KlikMatrica\obj\x86\Debug\KlikMatrica.exe
+C:\Users\korisnik\AppData\Local\Temporary Projects\KlikMatrica\obj\x86\Debug\KlikMatrica.pdb
+g:\svastara\visual studio 2010\Projects\KlikMatrica\KlikMatrica\obj\x86\Debug\KlikMatrica.exe
+g:\svastara\visual studio 2010\Projects\KlikMatrica\KlikMatrica\obj\x86\Debug\KlikMatrica.pdb
+g:\svastara\visual studio 2010\Projects\KlikMatrica\KlikMatrica\bin\Debug\KlikMatrica.exe
+g:\svastara\visual studio 2010\Projects\KlikMatrica\KlikMatrica\bin\Debug\KlikMatrica.pdb
+g:\svastara\visual studio 2010\Projects\KlikMatrica\KlikMatrica\obj\x86\Debug\KlikMatrica.Properties.Resources.resources
+g:\svastara\visual studio 2010\Projects\KlikMatrica\KlikMatrica\obj\x86\Debug\KlikMatrica.csproj.GenerateResource.Cache
+g:\svastara\visual studio 2010\Projects\KlikMatrica\KlikMatrica\obj\x86\Debug\KlikMatrica.Form1.resources
+g:\svastara\visual studio 2010\Projects\KlikMatrica\KlikMatrica\obj\x86\Debug\KlikMatrica.csprojResolveAssemblyReference.cache
+D:\Nikola - Instalacije i podesavanja\Desktop\KlikMatrica\KlikMatrica\obj\x86\Debug\KlikMatrica.exe
+D:\Nikola - Instalacije i podesavanja\Desktop\KlikMatrica\KlikMatrica\obj\x86\Debug\KlikMatrica.pdb
+D:\Nikola - Instalacije i podesavanja\Desktop\KlikMatrica\KlikMatrica\bin\Debug\KlikMatrica.exe
+D:\Nikola - Instalacije i podesavanja\Desktop\KlikMatrica\KlikMatrica\bin\Debug\KlikMatrica.pdb
+D:\Nikola - Instalacije i podesavanja\Desktop\KlikMatrica\KlikMatrica\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Nikola - Instalacije i podesavanja\Desktop\KlikMatrica\KlikMatrica\obj\x86\Debug\KlikMatrica.Form1.resources
+D:\Nikola - Instalacije i podesavanja\Desktop\KlikMatrica\KlikMatrica\obj\x86\Debug\KlikMatrica.Properties.Resources.resources
+D:\Nikola - Instalacije i podesavanja\Desktop\KlikMatrica\KlikMatrica\obj\x86\Debug\KlikMatrica.csproj.GenerateResource.Cache
+G:\Svastara\Visual Studio 2010\Projects\KlikMatricaPanel\KlikMatrica\obj\x86\Debug\KlikMatrica.exe
+G:\Svastara\Visual Studio 2010\Projects\KlikMatricaPanel\KlikMatrica\obj\x86\Debug\KlikMatrica.pdb
+G:\Svastara\Visual Studio 2010\Projects\KlikMatricaPanel\KlikMatrica\obj\x86\Debug\KlikMatrica.csprojResolveAssemblyReference.cache
+G:\Svastara\Visual Studio 2010\Projects\KlikMatricaPanel\KlikMatrica\obj\x86\Debug\KlikMatrica.Form1.resources
+G:\Svastara\Visual Studio 2010\Projects\KlikMatricaPanel\KlikMatrica\obj\x86\Debug\KlikMatrica.Properties.Resources.resources
+G:\Svastara\Visual Studio 2010\Projects\KlikMatricaPanel\KlikMatrica\obj\x86\Debug\KlikMatrica.csproj.GenerateResource.Cache
+G:\Svastara\Visual Studio 2010\Projects\KlikMatricaPanel\KlikMatrica\bin\Debug\KlikMatrica.exe
+G:\Svastara\Visual Studio 2010\Projects\KlikMatricaPanel\KlikMatrica\bin\Debug\KlikMatrica.pdb
